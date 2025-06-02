@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+dist/
+build/
+.env
+.env.*
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EJS templates (no need to ignore unless compiled output exists)
+# If you have compiled EJS output, add the output directory here
+
+# Misc
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Python (if backend is Python)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.env
+*.venv
+
+# Test coverage
+coverage/
+*.lcov
+
+# Others
+*.swp
+*.swo
